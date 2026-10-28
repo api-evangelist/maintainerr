@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Maintainerr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://maintainerr.info/
+Maintainerr is a free, self‑hosted tool that automatically cleans up unwatched or unwanted movies and shows from Plex, Jellyfin, and Emby. It offers powerful, customizable rules to keep media libraries tidy, runs in Docker and on Linux, Windows, macOS, and integrates with popular media servers to improve storage efficiency and user experience.
+
+**Areas:** Company · Media · Automation · Self-hosted · Docker
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://maintainerr.info/)
+- [Documentation](https://docs.maintainerr.info/)
+- [Getting started](https://docs.maintainerr.info/blog/getting-started-s01e01/)
+- [API reference](https://docs.maintainerr.info/)
+- [Pricing](https://maintainerr.info/#pricing)
+- [Support](https://discord.maintainerr.info/)
+- [Changelog](https://github.com/Maintainerr/Maintainerr/releases)
+- [Blog](https://blog.maintainerr.info/)
+- [GitHub](https://github.com/maintainerr)
+- [Status](https://status.maintainerr.info/status/maintainerr)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/maintainerr/](https://apis.io/providers/maintainerr/).
